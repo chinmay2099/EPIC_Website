@@ -1,0 +1,68 @@
+.bgtng {
+  background-color: #2691d9;
+}
+.Hcar1 {
+  width: 900px;
+  height: 500px;
+ 
+}
+.Hcar2 {
+  width: 900px;
+  height: 450px;
+}
+.marbg {
+  
+  
+  font-weight: bold;
+  color: white;
+}
+body {
+  background-color: #141e24;
+}
+
+.btn {
+  background-color:#3366FF;
+  text-align: center;
+  align-items: center;
+}
+
+.amr {
+    margin-bottom: 100px;
+}
+
+.card {
+    text-align: center;
+}
+
+.bg2 {
+    background-color:black;
+    border-radius: 90px;
+}
+
+.mar {
+  font-size: 40px;
+}
+
+/* Image campaign */
+
+.carousel img {     margin: auto;}
+
+.cardcam {
+  border-radius: 80px;
+ background-color: black;
+ margin: auto;
+}
+.imgpic{
+  margin: auto;
+  width: 200px;
+  height: 200px;
+}
+.textlef {
+  text-align: left;
+}
+
+/* PRODUCTS PAGE */
+
+.imgsize {
+ 
+}
